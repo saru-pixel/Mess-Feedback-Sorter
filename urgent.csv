@@ -1,0 +1,8 @@
+id,date,meal,comment,category,sentiment,urgent,summary,needs_manual_review
+F02,2026-10-01,Dinner,Found a small insect in the sambar,hygiene,negative,True,Found a small insect in the sambar,False
+F07,2026-10-03,Dinner,Found hair in food,hygiene,negative,True,Found hair in food,False
+F10,2026-10-04,Dinner,Food smelled spoiled,hygiene,negative,True,Food smelled spoiled,False
+F13,2026-10-06,Breakfast,Poochi in chutney,hygiene,negative,True,Poochi in chutney,False
+F16,2026-10-07,Lunch,I fell sick after eating,hygiene,negative,True,I fell sick after eating,False
+F19,2026-10-08,Lunch,Expired food was served,hygiene,negative,True,Expired food was served,False
+F22,2026-10-09,Dinner,There was a stone in the rice,hygiene,negative,True,There was a stone in the rice,False

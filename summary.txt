@@ -1,0 +1,20 @@
+MESS FEEDBACK SUMMARY
+=====================
+
+Total feedback: 22
+Urgent feedback: 7
+Manual review: 0
+
+CATEGORY COUNTS
+taste: 11
+hygiene: 7
+quantity: 2
+timing: 2
+other: 0
+
+SENTIMENT COUNTS
+positive: 4
+negative: 18
+neutral: 0
+
+Urgent feedback percentage: 31.82%

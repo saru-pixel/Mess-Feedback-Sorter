@@ -1,0 +1,23 @@
+id,date,meal,comment,category,sentiment,urgent,summary,needs_manual_review
+F01,2026-10-01,Lunch,Rice was undercooked again today,taste,negative,False,Rice was undercooked again today,False
+F02,2026-10-01,Dinner,Found a small insect in the sambar,hygiene,negative,True,Found a small insect in the sambar,False
+F03,2026-10-02,Breakfast,The idli was very tasty,taste,positive,False,The idli was very tasty,False
+F04,2026-10-02,Lunch,Quantity was too little,quantity,negative,False,Quantity was too little,False
+F05,2026-10-02,Dinner,Food was served late,timing,negative,False,Food was served late,False
+F06,2026-10-03,Lunch,ok,taste,negative,False,ok,False
+F07,2026-10-03,Dinner,Found hair in food,hygiene,negative,True,Found hair in food,False
+F08,2026-10-04,Breakfast,Food was delicious,taste,positive,False,Food was delicious,False
+F09,2026-10-04,Lunch,Sambar had too much salt,taste,negative,False,Sambar had too much salt,False
+F10,2026-10-04,Dinner,Food smelled spoiled,hygiene,negative,True,Food smelled spoiled,False
+F11,2026-10-05,Lunch,Food was cold,taste,negative,False,Food was cold,False
+F12,2026-10-05,Dinner,Very good dinner,taste,positive,False,Very good dinner,False
+F13,2026-10-06,Breakfast,Poochi in chutney,hygiene,negative,True,Poochi in chutney,False
+F14,2026-10-06,Lunch,Rice quantity was less,quantity,negative,False,Rice quantity was less,False
+F15,2026-10-06,Dinner,Dinner was late,timing,negative,False,Dinner was late,False
+F16,2026-10-07,Lunch,I fell sick after eating,hygiene,negative,True,I fell sick after eating,False
+F17,2026-10-07,Dinner,Too much oil,taste,negative,False,Too much oil,False
+F18,2026-10-08,Breakfast,Breakfast was excellent,taste,positive,False,Breakfast was excellent,False
+F19,2026-10-08,Lunch,Expired food was served,hygiene,negative,True,Expired food was served,False
+F20,2026-10-08,Dinner,Food was average,taste,negative,False,Food was average,False
+F21,2026-10-09,Lunch,Sambar was too spicy,taste,negative,False,Sambar was too spicy,False
+F22,2026-10-09,Dinner,There was a stone in the rice,hygiene,negative,True,There was a stone in the rice,False
